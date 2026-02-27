@@ -319,7 +319,7 @@ Unauthorized deployment may violate cybersecurity laws and privacy regulations.
 
 # 👩‍💻 Author: Tuba Islam
 
-Semester Project – CyberSecurity Lab
+CyberSecurity Project –
 Python Implementation on Ubuntu
 
 ---
